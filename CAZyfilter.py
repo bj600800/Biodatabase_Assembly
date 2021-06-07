@@ -4,7 +4,7 @@
 # @Author:      Eric Dou            #
 # @Time:        2021/4/7 15:42      #
 #####################################
-'''Function: File redistribution and format rearrangement.'''
+'''Function: File format rearrangement.'''
 
 '''Use regular expression model to extract valid information from raw data.'''
 import re
